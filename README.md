@@ -1,1 +1,1 @@
-# count-down-page-with-javascript
+# countdown page with javascript
